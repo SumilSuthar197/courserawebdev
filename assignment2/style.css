@@ -17,7 +17,11 @@
   h1 {
     margin-bottom: 15px;
     text-align: center;
+<<<<<<< HEAD
     color: black;
+=======
+    color: #000000;
+>>>>>>> 328febdd93b51dcca3fa197e8ff594f4286e8052
     font-size: 50px;
   }
   
@@ -47,8 +51,13 @@
     width: 90%;
     height: auto;
     margin: 2.5%;
+<<<<<<< HEAD
     color: black
     font-size 25px;
+=======
+    color: black;
+    font-size: 25px;
+>>>>>>> 328febdd93b51dcca3fa197e8ff594f4286e8052
     padding: 2%;
     padding-top: 55px;
     background-color: rgba(0,0,0,0.3);
